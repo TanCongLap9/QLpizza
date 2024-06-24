@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+  <title>Pizza HIT [Xem hoá đơn trên web]</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+  <style>
+    .material-symbols-outlined {
+      font-variation-settings:
+      'FILL' 0,
+      'wght' 400,
+      'GRAD' 0,
+      'opsz' 40
+    }
+  </style>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/material-components-web/14.0.0/material-components-web.min.css" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/material-components-web/14.0.0/material-components-web.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+  <style>
+    :root {
+      --mdc-theme-primary: rgb(255, 145, 76);
+    }
+    h4 {
+      margin-top: 0;
+      margin-bottom: 0.5em;
+    }
+  </style>
+</head>
+<body class="mdc-typography" style="margin: 0;">
+  <header class="mdc-top-app-bar">
+    <div class="mdc-top-app-bar__row">
+      <section class="mdc-top-app-bar__section">
+        <span class="mdc-top-app-bar__title">Pizza HIT</span>
+      </section>
+    </div>
+  </header>
+  <main class="mdc-top-app-bar--fixed-adjust">
+    <div class="mdc-theme--primary-bg" style="text-align: center;">
+      <img src="https://drive.google.com/thumbnail?id=<?= LOGO_ID ?>" width="128" height="128">
+    </div>
+    <div class="mdc-theme--on-primary" style="background-color: black;">
+      <div class="mdc-layout-grid">
+        <div class="mdc-layout-grid__inner">
+          <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-2-desktop mdc-layout-grid__cell--span-2-tablet" style="height: 100px;"></div>
+          <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-8-desktop mdc-layout-grid__cell--span-4-tablet">
+            <img src="https://as2.ftcdn.net/v2/jpg/05/72/82/15/1000_F_572821587_kTEoIswF8c5t96xp1MBbLxmDGYE9I6sW.jpg" style="width: 100%;">
+          </div>
+          <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-2-desktop mdc-layout-grid__cell--span-2-tablet" style="height: 100px;"></div>
+          <h4 class="mdc-layout-grid__cell mdc-layout-grid__cell--span-12 mdc-typography--headline4" style="text-align: center;">404</h4>
+        </div>
+      </div>
+    </div>
+    <article class="mdc-layout-grid">
+      <div class="mdc-layout-grid__inner">
+        <section class="mdc-layout-grid__cell mdc-layout-grid__cell--span-12">
+          <h4 class="mdc-typography--headline4">Không tìm thấy hoá đơn</h4>
+          <p class="mdc-typography--body2">Không tìm thấy hoá đơn có mã số <b><?= data.maHoaDon ?></b>.</p>
+          <p class="mdc-typography--body2">Nếu quý khách đã thanh toán món, vui lòng kiểm tra lại mã hoá đơn của mình.</p>
+          <p class="mdc-typography--body2">Nếu quý khách đã đặt món nhưng chưa thanh toán, vui lòng nhấn vào nút thanh toán để hoá đơn của quý khách được xử lý.</p>
+          <hr>
+          <p class="mdc-typography--body2">Chúng tôi chân thành xin lỗi quý khách vì sự bất tiện này!</p>
+        </section>
+      </div>
+    </article>
+    <footer class="mdc-theme--primary-bg mdc-theme--on-primary" style="text-align: center; padding: 1em;">
+      <p class="mdc-typography--body1" style="margin: 0;">
+        &copy; 2024 Phần mềm quản lý cửa hàng Pizza HIT | Thiết kế bởi Tăng Chí Hào (2230130004) | Mọi quyền được bảo lưu
+      </p>
+    </footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html>
+<head xmlns="http://www.w3.org/1999/xhtml">
+  <title>Pizza HIT [Xem hoá đơn trên web]</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+  <style>
+    .material-symbols-outlined {
+      font-variation-settings:
+      'FILL' 0,
+      'wght' 400,
+      'GRAD' 0,
+      'opsz' 40
+    }
+  </style>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/material-components-web/14.0.0/material-components-web.min.css" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/material-components-web/14.0.0/material-components-web.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" />
+  <style>
+    :root {
+      --mdc-theme-primary: rgb(255, 145, 76);
+    }
+    h4 {
+      margin-top: 0;
+      margin-bottom: 0.5em;
+    }
+  </style>
+</head>
+<body class="mdc-typography" style="margin: 0;">
+  <header class="mdc-top-app-bar">
+    <div class="mdc-top-app-bar__row">
+      <section class="mdc-top-app-bar__section">
+        <span class="mdc-top-app-bar__title">Pizza HIT</span>
+      </section>
+    </div>
+  </header>
+  <main class="mdc-top-app-bar--fixed-adjust">
+    <div class="mdc-theme--primary-bg" style="text-align: center;">
+      <img src="https://drive.google.com/thumbnail?id=<?= LOGO_ID ?>" width="128" height="128">
+    </div>
+    <article class="mdc-layout-grid">
+      <div class="mdc-layout-grid__inner">
+        <section class="mdc-layout-grid__cell mdc-layout-grid__cell--span-12">
+          <p class="mdc-typography--body2">Chúng tôi đã nhận hoá đơn với mã số <?= data.maHoaDon ?> của quý khách <?= data.hoTen ?>.</p>
+          <p class="mdc-typography--body2">Quý khách hàng vui lòng kiểm tra lại các thông tin dưới đây. Nếu có sai sót trong hoá đơn này, vui lòng báo cho bộ phận thu ngân.</p>
+          <hr />
+        </section>
+        <section class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4-desktop mdc-layout-grid__cell--span-6-tablet mdc-layout-grid__cell--span-6-phone">
+          <h4 class="mdc-typography--headline4">Thông tin về hoá đơn</h4>
+          <p class="mdc-typography--body1">Mã hoá đơn: <?= data.maHoaDon ?></p>
+          <p class="mdc-typography--body1">Khách đặt: <?= data.hoTen ?></p>
+          <p class="mdc-typography--body1">Ngày đặt: <?= data.ngayDat.toLocaleDateString("vi") ?></p>
+          <p class="mdc-typography--body1">Thời gian đặt: <?= data.thoiGianDat.toLocaleTimeString("vi") ?></p>
+          <p class="mdc-typography--body1">Bàn đặt: <?= data.tenBan ?></p>
+          <p class="mdc-typography--body1">Phương thức thanh toán: <?=
+            data.phuongThucThanhToan == 0 ? "Tiền mặt" :
+            data.phuongThucThanhToan == 1 ? "Thẻ tín dụng" :
+            data.phuongThucThanhToan == 2 ? "Ví điện tử" :
+            "Phương thức khác"
+          ?></p>
+          <p class="mdc-typography--body1">
+            <span>Ghi chú: </span>
+            <span style="white-space: pre;"><?= data.ghiChu ?></span>
+          </p>
+        </section>
+        <section class="mdc-layout-grid__cell mdc-layout-grid__cell--span-8-desktop mdc-layout-grid__cell--span-6-tablet mdc-layout-grid__cell--span-6-phone">
+          <h4 class="mdc-typography--headline4">Chi tiết</h4>
+          <div class="mdc-data-table">
+            <div class="mdc-data-table__table-container">
+              <table class="mdc-data-table__table">
+                <thead>
+                  <tr class="mdc-data-table__header-row">
+                    <th class="mdc-data-table__header-cell">STT</th>
+                    <th class="mdc-data-table__header-cell">Tên món</th>
+                    <th class="mdc-data-table__header-cell">Số lượng</th>
+                    <th class="mdc-data-table__header-cell">Đơn giá</th>
+                    <th class="mdc-data-table__header-cell">Tổng tiền</th>
+                  </tr>
+                </thead>
+                <tbody class="mdc-data-table__content">
+                <?  for (var i = 0; i < data.chiTiet.length; i++) {
+                      var chiTiet = data.chiTiet[i]; ?>
+                      <tr class="mdc-data-table__row">
+                        <td class="mdc-data-table__cell mdc-data-table__cell--numeric"><?= i + 1 ?></td>
+                        <td class="mdc-data-table__cell"><?= chiTiet.tenPizza ?></td>
+                        <td class="mdc-data-table__cell mdc-data-table__cell--numeric"><?= chiTiet.soLuong ?></td>
+                        <td class="mdc-data-table__cell mdc-data-table__cell--numeric"><?= (chiTiet.donGia).toLocaleString("vi") ?> &#x20ab;</td>
+                        <td class="mdc-data-table__cell mdc-data-table__cell--numeric"><?= (chiTiet.donGia * chiTiet.soLuong).toLocaleString("vi") ?> &#x20ab;</td>
+                        <td class="mdc-data-table__cell"></td>
+                      </tr>
+                <?  } ?>
+                </tbody>
+                <tfoot>
+                  <tr class="mdc-data-table__header-row">
+                    <td class="mdc-data-table__header-cell">Tổng</td>
+                    <td class="mdc-data-table__header-cell"></td>
+                    <td class="mdc-data-table__header-cell mdc-data-table__header-cell--numeric">
+                      <?= data.chiTiet.reduce((tong, chiTiet) => tong + chiTiet.soLuong, 0).toLocaleString("vi") ?>
+                    </td>
+                    <td class="mdc-data-table__header-cell"></td>
+                    <td class="mdc-data-table__header-cell mdc-data-table__header-cell--numeric">
+                      <?= data.chiTiet.reduce((tong, chiTiet) => tong + chiTiet.donGia * chiTiet.soLuong, 0).toLocaleString("vi") ?> &#x20ab;
+                    </td>
+                  </tr>
+                </tfoot>
+              </table>
+            </div>
+          </div>
+        </section>
+        <section class="mdc-layout-grid__cell mdc-layout-grid__cell--span-12">
+          <hr />
+          <p class="mdc-typography--body2">Cảm ơn quý khách đã lựa chọn dịch vụ cửa hàng Pizza HIT của chúng tôi!</p>
+        </section>
+      </div>
+    </article>
+    <footer class="mdc-theme--primary-bg mdc-theme--on-primary" style="text-align: center; padding: 1em;">
+      <p class="mdc-typography--body1" style="margin: 0;">
+        &copy; 2024 Phần mềm quản lý cửa hàng Pizza HIT | Thiết kế bởi Tăng Chí Hào (2230130004) | Mọi quyền được bảo lưu
+      </p>
+    </footer>
+  </main>
+</body>
+</html>

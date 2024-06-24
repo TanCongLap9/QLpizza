@@ -1,0 +1,221 @@
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\bin\Debug\QLpizza.exe.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\bin\Debug\QLpizza.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\bin\Debug\QLpizza.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.XacNhanThanhToan.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.PizzaItem.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.DangNhap.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.Form1.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.MatKhau.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.Properties.Resources.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.ThongKe.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.GenerateResource.Cache
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.csprojResolveAssemblyReference.cache
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\bin\Debug\QLpizza.exe.config
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.exe
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\bin\Debug\QLpizza.exe
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\bin\Debug\QLpizza.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\bin\Debug\MaterialSkin.dll
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.csprojResolveAssemblyReference.cache
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.Pizza.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.XacNhanThanhToan.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.Darken.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.MaterialDatePicker.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.MaterialDatePickerDialog.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.NumericField2.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.DateTimeField2.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.StatusBar2.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.TextField2M.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.TextField2.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.RJButton.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.ComboField2.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.KeyBinding.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.NumericField.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.DateTimeField.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.PizzaItem.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.DangNhap.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.ComboField.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.PresetButton.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.TextField.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.Form1.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.Form2.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.LichSu.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.DoanhThu.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.Nhap.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.FormChinh.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CongThuc.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CongViec.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.HoaDon.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.KhachHang.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.MatKhau.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.NhanVien.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.Properties.Resources.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.StatusBar.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.QuyenTruyCap.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.ThongKe.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.Tien.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.TimKiem.resources
+C:\Users\Sinh Vien.SinhVien-PC\Documents\Visual Studio 2015\Projects\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.GenerateResource.Cache
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.DangKy.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.FormChinh.resources
+D:\vs_proj\QLpizza_window2\QLpizza\bin\Debug\QLpizza.exe.config
+D:\vs_proj\QLpizza_window2\QLpizza\bin\Debug\QLpizza.exe
+D:\vs_proj\QLpizza_window2\QLpizza\bin\Debug\QLpizza.pdb
+D:\vs_proj\QLpizza_window2\QLpizza\bin\Debug\MaterialSkin.dll
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.BanHang.MuaPizza.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.BanHang.XacNhanThanhToan.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.FieldsBoxWindow.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.Form1.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.DatLaiMatKhau.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.ThemeControls.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.DangKy.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.StatusBar2.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.KeyBinding.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.NumericField.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.DateTimeField.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.PizzaItem.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.DangNhap.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.ComboField.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.PresetButton.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.TextField.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.FormChinh.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuanLy.CongThuc.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuanLy.CongViec.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuanLy.HoaDon.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuanLy.KhachHang.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.MatKhau.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.Properties.Resources.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.CustomComponents.StatusBar.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.ThongKe.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.TimKiem.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuenMatKhau.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.csproj.GenerateResource.cache
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.csproj.CoreCompileInputs.cache
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.csproj.CopyComplete
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.exe
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.pdb
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuanLy.NhanVien.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuanLy.NguyenLieu.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.csproj.AssemblyReference.cache
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuanLy.Pizza.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuanLy.Nhap.resources
+D:\vs_proj\QLpizza_window2\QLpizza\obj\Debug\QLpizza.QuanLy.Quyen.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\bin\Debug\QLpizza.exe.config
+C:\Users\User\Downloads\QLpizza\QLpizza\bin\Debug\QLpizza.exe
+C:\Users\User\Downloads\QLpizza\QLpizza\bin\Debug\QLpizza.pdb
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.MuaPizza.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.XacNhanThanhToan.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.FieldsBoxWindow.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Quyen.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Pizza.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.NguyenLieu.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Nhap.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.DatLaiMatKhau.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.ThemeControls.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.DangKy.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.PizzaItem.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.DangNhap.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.FormChinh.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CongThuc.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CongViec.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.HoaDon.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.KhachHang.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.MatKhau.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.NhanVien.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.Properties.Resources.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.ThongKe.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.TimKiem.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuenMatKhau.resources
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.GenerateResource.cache
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.exe
+C:\Users\User\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.pdb
+D:\vs_proj\QLpizza\QLpizza\bin\Debug\QLpizza.exe
+D:\vs_proj\QLpizza\QLpizza\bin\Debug\QLpizza.exe.config
+D:\vs_proj\QLpizza\QLpizza\bin\Debug\QRCoder.dll
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.MuaPizza.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.XacNhanThanhToan.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.FieldsBoxWindow.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Quyen.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Pizza.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.NguyenLieu.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Nhap.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.DatLaiMatKhau.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.DangKy.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.PizzaItem.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.DangNhap.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.FormChinh.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CongThuc.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CongViec.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.HoaDon.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.KhachHang.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.MatKhau.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.NhanVien.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.Properties.Resources.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.ThongKe.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.TraCuu.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuenMatKhau.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.GenerateResource.cache
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.CoreCompileInputs.cache
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.CopyComplete
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.exe
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.pdb
+D:\vs_proj\QLpizza\QLpizza\bin\Debug\QLpizza.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\bin\Debug\QRCoder.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.MuaPizza.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.FieldsBoxWindow.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Quyen.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Pizza.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.NguyenLieu.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Nhap.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.DatLaiMatKhau.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.MaterialControls.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CongThuc.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CongViec.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.HoaDon.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.KhachHang.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.NhanVien.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.TraCuu.resources
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLpizza\QLpizza\obj\Debug\QLpizza.QuenMatKhau.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.AssemblyReference.cache
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.InputControls.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.Form1.resources
+D:\vs_proj\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CheBien.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\bin\Debug\QLpizza.exe.config
+D:\vs_proj\QLpizza\QLpizza\QLpizza\bin\Debug\QLpizza.exe
+D:\vs_proj\QLpizza\QLpizza\QLpizza\bin\Debug\QLpizza.pdb
+D:\vs_proj\QLpizza\QLpizza\QLpizza\bin\Debug\QRCoder.dll
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.MuaPizza.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.BanHang.XacNhanThanhToan.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.FieldsBoxWindow.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.Form1.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.FormChinh.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CheBien.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Quyen.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Pizza.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.NguyenLieu.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.Nhap.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.DatLaiMatKhau.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.InputControls.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.DangKy.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.CustomComponents.PizzaItem.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.DangNhap.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CongThuc.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.CongViec.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.HoaDon.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.KhachHang.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.MatKhau.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuanLy.NhanVien.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.Properties.Resources.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.ThongKe.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.TraCuu.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.QuenMatKhau.resources
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.GenerateResource.cache
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.CoreCompileInputs.cache
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.CopyComplete
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.exe
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.pdb
+D:\vs_proj\QLpizza\QLpizza\QLpizza\obj\Debug\QLpizza.csproj.AssemblyReference.cache

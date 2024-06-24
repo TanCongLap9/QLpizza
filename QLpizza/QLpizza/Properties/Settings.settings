@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QLpizza.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TenDangNhap" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MatKhau" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NguonDuLieu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="CheDoKetNoi" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TenDangNhapSql" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MatKhauSql" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PrimaryBackColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">255, 145, 76</Value>
+    </Setting>
+    <Setting Name="PrimaryDarkBackColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">239, 108, 0</Value>
+    </Setting>
+    <Setting Name="PrimaryLightBackColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">255, 183, 77</Value>
+    </Setting>
+    <Setting Name="AccentBackColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">3, 169, 244</Value>
+    </Setting>
+    <Setting Name="SurfaceColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">29, 27, 32</Value>
+    </Setting>
+    <Setting Name="AccentForeColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="InputBackColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Control</Value>
+    </Setting>
+    <Setting Name="SurfaceVariantColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">73, 69, 79</Value>
+    </Setting>
+    <Setting Name="CardBackColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="OutlineColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">121, 116, 126</Value>
+    </Setting>
+    <Setting Name="InputErrorForeColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">179, 38, 30</Value>
+    </Setting>
+    <Setting Name="WebApp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://script.google.com/macros/s/AKfycbyJ_jGzaj_GwLDSav9Tq4cSRe0GFIyu6fQO4y5iHMXt_3UUbYMf6x4dGOHWroJgfxQh/exec</Value>
+    </Setting>
+    <Setting Name="PizzaPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">..\\..\\static\\pizza</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
