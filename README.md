@@ -26,33 +26,17 @@ Phần mềm này có những tính năng nổi bật như sau:
 ## Cấu trúc của dự án
 
 Dự án này gồm có cấu trúc thư mục như sau:
-```
-~
-├── README.md
-├── Pizza.sql                   # Mã nguồn CSDL lưu trữ các thông tin về quán
-├── PIZZA.bak                   # Bản sao lưu CSDL lưu trữ các thông tin về quán
-├── pizza_tieuluan.docx         # Tiểu luận môn học
-├── pizza_thuyettrinh.pptx      # Bài thuyết trình về phần mềm
-├── TaiKhoan.txt                # Chứa một số tài khoản để đăng nhập
-├── LICENSE                     # Giấy phép phát hành phần mềm
-├── QLpizza                     # Chứa giải pháp phần mềm
-│   ├── QLpizza.sln
-│   ├── .vs
-│   │   └── ...
-│   ├── packages
-│   │   └── ...
-│   └── QLpizza
-│       └── ...
-└── QLpizza_Drive               # Chứa mã để chạy webapp trên Google. Người dùng có thể tự setup webapp của riêng
-    ├── DB_ThanhToan.xlsx
-    ├── pizza_hit.jpg
-    └── Scripts
-        ├── account_creation.html
-        ├── Code.gs
-        ├── forget_password.html
-        ├── index.html
-        └── notfound.html
-```
+
+- [`README.md`](README.md): Các thông tin hữu ích về phần mềm này
+- [`Pizza.sql`](Pizza.sql): Mã nguồn CSDL lưu trữ các thông tin về quán
+- [`PIZZA.bak`](PIZZA.bak): Bản sao lưu CSDL lưu trữ các thông tin về quán
+- [`pizza_tieuluan.docx`](pizza_tieuluan.docx): Tiểu luận môn học
+- [`pizza_thuyettrinh.pptx`](pizza_thuyettrinh.pptx): Bài thuyết trình về phần mềm
+- [`TaiKhoan.txt`](TaiKhoan.txt): Chứa một số tài khoản mẫu để đăng nhập
+- [`LICENSE`](LICENSE): Giấy phép phát hành phần mềm
+- [`screenshots`](screenshots): Các ảnh chụp màn hình từ phần mềm
+- [`QLpizza`](QLpizza): Chứa giải pháp phần mềm
+- [`QLpizza_Drive`](QLpizza_Drive): Chứa mã để chạy webapp trên Google. Người dùng có thể tự setup webapp của riêng
 
 ## Cài đặt
 
